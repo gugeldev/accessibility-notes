@@ -20,3 +20,4 @@ Essas diretrizes têm três níveis de conformidade: A (requisitos básicos), AA
 - [2. Operável (Operable)](2.%20Operável%20(Operable).md)
 - [3. Compreensível (Understandable)](3.%20Compreensível%20(Understandable).md)
 - [4. Robusto (Robust)](4.%20Robusto%20(Robust).md)
+- [EN 301 549](EN%20301%20549.md)
