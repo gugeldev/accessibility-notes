@@ -18,3 +18,4 @@ Essas diretrizes têm três níveis de conformidade: A (requisitos básicos), AA
 
 - [1. Perceptível (Perceivable)](1.%20Perceptível%20(Perceivable).md)
 - [2. Operável (Operable)](2.%20Operável%20(Operable).md)
+- [3. Compreensível (Understandable)](3.%20Compreensível%20(Understandable).md)
