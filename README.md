@@ -1,6 +1,6 @@
 # Acessibilidade digital
 
-Notas de estudo sobre dois assuntos diferentes:
+Documentação sobre dois assuntos diferentes:
 
 - a WCAG 2.2, um conjunto de diretrizes técnicas do W3C;
 - a EN 301 549, a norma europeia de acessibilidade, que usa a WCAG como uma de suas partes.
