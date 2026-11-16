@@ -1,3 +1,4 @@
+# WCAG 2.2 AA
 
 WCAG significa Web Content Accessibility Guidelines → conjunto de diretrizes internacionais criado pelo W3C para definir critérios de acessibilidade em conteúdos digitais.
 
@@ -12,3 +13,7 @@ Ela se organiza em quatro princípios, conhecidos pela sigla POUR:
 - Robust (Robusto): o conteúdo precisa funcionar com diferentes tecnologias. Exemplo: compatibilidade com leitores de tela.
 
 Essas diretrizes têm três níveis de conformidade: A (requisitos básicos), AA (requisitos intermediários), AAA (requisitos mais rigorosos).
+
+## Documentação
+
+- [1. Perceptível (Perceivable)](1.%20Perceptível%20(Perceivable).md)
