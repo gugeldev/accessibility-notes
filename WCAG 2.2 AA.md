@@ -1,0 +1,14 @@
+
+WCAG significa Web Content Accessibility Guidelines → conjunto de diretrizes internacionais criado pelo W3C para definir critérios de acessibilidade em conteúdos digitais.
+
+Ela se organiza em quatro princípios, conhecidos pela sigla POUR:
+
+- Perceivable (Perceptível): o usuário precisa conseguir perceber a informação. Exemplo: imagens com texto alternativo `<img alt='texto alternativo' />`.
+
+- Operable (Operável): o usuário precisa conseguir interagir com a interface. Exemplo: navegação por teclado.
+
+- Understandable (Compreensível): o usuário precisa conseguir entender o conteúdo e o funcionamento. Exemplo: formulários com instruções claras.
+
+- Robust (Robusto): o conteúdo precisa funcionar com diferentes tecnologias. Exemplo: compatibilidade com leitores de tela.
+
+Essas diretrizes têm três níveis de conformidade: A (requisitos básicos), AA (requisitos intermediários), AAA (requisitos mais rigorosos).
